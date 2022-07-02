@@ -38,7 +38,9 @@
 7) making accounts from ganache to meta mask n marking them as per it.
 8) if accounts are proper the it will load or else not.
 
-Execution will start from __App.js__ file in client directory.
+The 5th step will start from __App.js__ file in client directory, not in the root dir.
+
+If u want to find the js files, they are in the <drive in which u cloned it>\EHR_Using_Ethereum_Blockchain\client\src\Components.
 
 ## sildes n reports which chould found
 
