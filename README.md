@@ -42,7 +42,7 @@ The 5th step will start from __App.js__ file in client directory, not in the roo
 
 If u want to find the js files, they are in the <drive in which u cloned it>\EHR_Using_Ethereum_Blockchain\client\src\Components.
 
-## sildes n reports which chould found
+## sildes n reports which chould be found
 
 * https://docs.google.com/presentation/d/1OizR6slIn5KHgvNGpl9funr0OJHTKV811LbKO4bVFgY/edit?usp=sharing
 
