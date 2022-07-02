@@ -35,12 +35,20 @@
 4) Goto Project Directory and run ___"truffle migrate"___ on command prompt, dont skip this, this will convert ur sol contracts into json.
 5) Goto Client directory and run ___"npm install --force"___ to install all req and then run ___"npm start"___ to start react server.
 6) Project will be open in your browser.
-7)making accounts from ganache to meta mask n marking them as per it.
-8)if accounts are proper the it will load or else not.
+7) making accounts from ganache to meta mask n marking them as per it.
+8) if accounts are proper the it will load or else not.
 
 Execution will start from __App.js__ file in client directory.
 
-## sildes chould find
+## sildes n reports which chould found
 
 https://docs.google.com/presentation/d/1OizR6slIn5KHgvNGpl9funr0OJHTKV811LbKO4bVFgY/edit?usp=sharing
+
+https://www.researchgate.net/profile/Ammar_El_Sayed/publication/344681968_A_New_Supervision_Strategy_based_on_Blockchain_for_Electronic_Health_Records/links/5f895540299bf1b53e2c05aa/A-New-Supervision-Strategy-based-on-Blockchain-for-Electronic-Health-Records
+
+https://repositorio.usp.br/directbitstream/4ae41b98-dc33-41e8-b697-621271f176e6/2894652.pdf
+
+https://easychair.org/publications/open/3fW3
+
+
 
