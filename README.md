@@ -41,16 +41,3 @@
 The 5th step will start from __App.js__ file in client directory, not in the root dir.
 
 If u want to find the js files, they are in the <drive in which u cloned it>\EHR_Using_Ethereum_Blockchain\client\src\Components.
-
-## sildes n reports which chould be found
-
-* https://docs.google.com/presentation/d/1OizR6slIn5KHgvNGpl9funr0OJHTKV811LbKO4bVFgY/edit?usp=sharing
-
-* https://www.researchgate.net/profile/Ammar_El_Sayed/publication/344681968_A_New_Supervision_Strategy_based_on_Blockchain_for_Electronic_Health_Records/links/5f895540299bf1b53e2c05aa/A-New-Supervision-Strategy-based-on-Blockchain-for-Electronic-Health-Records
-
-* https://repositorio.usp.br/directbitstream/4ae41b98-dc33-41e8-b697-621271f176e6/2894652.pdf
-
-* https://easychair.org/publications/open/3fW3
-
-
-
